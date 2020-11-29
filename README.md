@@ -1,2 +1,2 @@
-# read-rfid-nfc
-RPi read RFID / NFC using PN532
+# RPi-PN532
+Make RPi read RFID / NFC data using PN532
